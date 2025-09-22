@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "crux3acronix",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "43580e15-0ef8-42c5-966d-aceefc44784f",
+      "database_name": "d1-template"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
